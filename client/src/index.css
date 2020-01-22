@@ -64,8 +64,16 @@ body {
 
 .edit-button {
    margin-right:100px;
+   cursor: pointer;
 }
-.edit-button:hover, .save-button:hover {
+
+.delete-button {
+   margin-right: 200px;
+   background:red;
+   color:white;
+   cursor: pointer;
+}
+.edit-button:hover, .delete-button, .save-button:hover {
   background-color: green;
   color: white;
 }
