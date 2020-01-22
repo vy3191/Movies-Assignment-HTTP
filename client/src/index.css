@@ -79,3 +79,10 @@ body {
   color: red;
   text-align: center;
 }
+
+.update-form {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
