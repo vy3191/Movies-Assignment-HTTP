@@ -6,8 +6,7 @@
   "root": "./client",
   "scripts": {
     "start": "node server.js",
-    "root": "./client"
-    
+    "build": "./client"    
   },
   "repository": {
     "type": "git",
